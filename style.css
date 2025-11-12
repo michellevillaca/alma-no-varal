@@ -185,6 +185,56 @@ section#img10 {
     background-size: cover;
 }
 
+section#img11 {
+    background-image: url(imagens/revolucao.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#img12 {
+    background-image: url(imagens/fastfood.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#img13 {
+    background-image: url(imagens/espelho.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#img14 {
+    background-image: url(imagens/universe.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#img15 {
+    background-image: url(imagens/passaros.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#img16 {
+    background-image: url(imagens/surgery.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#img17 {
+    background-image: url(imagens/driving.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 section.imagem {
     background-color: rgb(51, 51, 51);
     color: white;
