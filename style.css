@@ -77,7 +77,7 @@ header > h1 {
     padding-top: 50px;
     font-family: var(--fonte4);
     font-variant: small-caps;
-    font-size: clamp(2rem, 10vw, 10rem); /* O tamanho será:
+    font-size: clamp(3.5rem, 10vw, 10rem); /* O tamanho será:
     2rem em telas pequenas
     10vw em telas médias
     10rem em telas grandes */
@@ -94,7 +94,7 @@ section {
     line-height: 2em;
     padding-left: 35px;
     font-family: var(--fonte2);
-    font-size: clamp(1rem, 1.9vw, 1.5rem);
+    font-size: clamp(0.8rem, 1.9vw, 1.5rem);
 }
 
 section.simples {
